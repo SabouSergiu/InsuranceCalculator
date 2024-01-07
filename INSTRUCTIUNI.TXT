@@ -1,0 +1,7 @@
+f=0 -> Anuitate viagera posticipata intreaga
+f=1 -> Anuitate viagera posticipata fractionata
+f=2 -> Anuitate viagera anticipata intreaga
+f=3 -> Anuitate viagera anticipata fractionata
+f=4 -> Anuitate de deces
+f=-2 -> Factor de actualizare de deces
+f=-1 -> Factor de actualizare viager
